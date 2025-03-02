@@ -1,0 +1,20 @@
+button {
+    background-color: #007BFF; /* Color azul */
+    color: white; /* Texto en blanco */
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Azul más oscuro al pasar el mouse */
+  }
+  
+  button:active {
+    background-color: #003f7f; /* Aún más oscuro al hacer clic */
+  }
+  
